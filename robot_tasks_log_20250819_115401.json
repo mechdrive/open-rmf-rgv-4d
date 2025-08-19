@@ -1,0 +1,24 @@
+{
+  "summary": {
+    "total_tasks_completed": 2,
+    "total_sim_time_sec": 150.8,
+    "total_sim_time_hms": "2m 30s",
+    "throughput_rate_tasks_per_sec": 0.01326259946949602
+  },
+  "tasks": [
+    {
+      "robot_name": "rgv7",
+      "task_id": "delivery_666651f3-a798-4a26-9c6a-1bcbad2930a3",
+      "pickup": "pick_5",
+      "dropoff": "drop_2",
+      "task_completion_duration": 60.5
+    },
+    {
+      "robot_name": "rgv6",
+      "task_id": "delivery_9c3185a1-7ffa-40af-8a50-d2bcb79511d9",
+      "pickup": "pick_3",
+      "dropoff": "drop_4",
+      "task_completion_duration": 84.4
+    }
+  ]
+}

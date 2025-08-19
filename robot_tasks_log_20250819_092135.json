@@ -1,0 +1,17 @@
+{
+  "summary": {
+    "total_tasks_completed": 1,
+    "total_sim_time_sec": 213.9,
+    "total_sim_time_hms": "3m 33s",
+    "throughput_rate_tasks_per_sec": 0.004675081813931743
+  },
+  "tasks": [
+    {
+      "robot_name": "rgv1",
+      "task_id": "delivery_cabd410c-1593-4a15-84f7-4f2d932594d8",
+      "pickup": "pick_2",
+      "dropoff": "drop_6",
+      "task_completion_duration": 196.5
+    }
+  ]
+}

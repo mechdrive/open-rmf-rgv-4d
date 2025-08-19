@@ -1,0 +1,220 @@
+{
+  "summary": {
+    "total_tasks_completed": 30,
+    "total_sim_time_sec": 1402.438,
+    "total_sim_time_hms": "23m 22s",
+    "throughput_rate_tasks_per_sec": 0.02139131997279024
+  },
+  "tasks": [
+    {
+      "robot_name": "rgv1",
+      "task_id": "delivery_a1909785-800b-4916-84a9-701d026f05d2",
+      "pickup": "pick_2",
+      "dropoff": "drop_6",
+      "task_completion_duration": 212.188
+    },
+    {
+      "robot_name": "rgv7",
+      "task_id": "delivery_222d73d5-8a8f-4694-932e-f31455bd0c55",
+      "pickup": "pick_5",
+      "dropoff": "drop_2",
+      "task_completion_duration": 228.324
+    },
+    {
+      "robot_name": "rgv2",
+      "task_id": "delivery_ce852061-ad59-46ba-a8d1-b75b48122e61",
+      "pickup": "pick_2",
+      "dropoff": "drop_4",
+      "task_completion_duration": 276.608
+    },
+    {
+      "robot_name": "rgv9",
+      "task_id": "delivery_c64de3c4-785c-4160-b531-fbe5590a29be",
+      "pickup": "pick_4",
+      "dropoff": "drop_1",
+      "task_completion_duration": 284.116
+    },
+    {
+      "robot_name": "rgv3",
+      "task_id": "delivery_59f5304b-7f66-4b1e-b023-466341a09ed3",
+      "pickup": "pick_1",
+      "dropoff": "drop_4",
+      "task_completion_duration": 343.226
+    },
+    {
+      "robot_name": "rgv10",
+      "task_id": "delivery_0be8c192-d4ae-4108-a9ae-34875535ec54",
+      "pickup": "pick_4",
+      "dropoff": "drop_2",
+      "task_completion_duration": 416.888
+    },
+    {
+      "robot_name": "rgv6",
+      "task_id": "delivery_f2c6b9f1-89ce-43c7-adf2-1d2a8be5f6a0",
+      "pickup": "pick_3",
+      "dropoff": "drop_4",
+      "task_completion_duration": 420.452
+    },
+    {
+      "robot_name": "rgv5",
+      "task_id": "delivery_f5a9468c-5c83-4609-b50f-626271870012",
+      "pickup": "pick_1",
+      "dropoff": "drop_5",
+      "task_completion_duration": 444.428
+    },
+    {
+      "robot_name": "rgv4",
+      "task_id": "delivery_2e260def-c3b2-4ce8-a62a-25a8c34d2d4e",
+      "pickup": "pick_2",
+      "dropoff": "drop_6",
+      "task_completion_duration": 448.854
+    },
+    {
+      "robot_name": "rgv1",
+      "task_id": "delivery_84f71aae-80ce-4af4-abe7-2df5e6d18b73",
+      "pickup": "pick_5",
+      "dropoff": "drop_3",
+      "task_completion_duration": 248.822
+    },
+    {
+      "robot_name": "rgv7",
+      "task_id": "delivery_90ce6214-714e-4461-91ea-1d63f73c0af0",
+      "pickup": "pick_3",
+      "dropoff": "drop_5",
+      "task_completion_duration": 251.27
+    },
+    {
+      "robot_name": "rgv2",
+      "task_id": "delivery_4432eb77-3144-44ff-a371-dd084d429f91",
+      "pickup": "pick_4",
+      "dropoff": "drop_2",
+      "task_completion_duration": 250.148
+    },
+    {
+      "robot_name": "rgv8",
+      "task_id": "delivery_1c3468fa-5a0f-407c-b807-fea181e34c34",
+      "pickup": "pick_1",
+      "dropoff": "drop_5",
+      "task_completion_duration": 604.86
+    },
+    {
+      "robot_name": "rgv10",
+      "task_id": "delivery_36aade86-f201-48de-a4ff-50a6bc050739",
+      "pickup": "pick_3",
+      "dropoff": "drop_4",
+      "task_completion_duration": 203.738
+    },
+    {
+      "robot_name": "rgv9",
+      "task_id": "delivery_68b41944-dade-496b-a703-e924956ccef2",
+      "pickup": "pick_2",
+      "dropoff": "drop_6",
+      "task_completion_duration": 340.112
+    },
+    {
+      "robot_name": "rgv3",
+      "task_id": "delivery_ddf1f1cf-ca6a-476a-bfbd-682f8c4f9530",
+      "pickup": "pick_5",
+      "dropoff": "drop_3",
+      "task_completion_duration": 274.424
+    },
+    {
+      "robot_name": "rgv4",
+      "task_id": "delivery_9a853f55-02a0-404e-87ed-7b97e331a7d1",
+      "pickup": "pick_4",
+      "dropoff": "drop_2",
+      "task_completion_duration": 232.706
+    },
+    {
+      "robot_name": "rgv5",
+      "task_id": "delivery_747d1c8e-f13f-428f-a0cc-10033601148f",
+      "pickup": "pick_6",
+      "dropoff": "drop_1",
+      "task_completion_duration": 266.06
+    },
+    {
+      "robot_name": "rgv2",
+      "task_id": "delivery_935a072e-2aee-4ffe-a457-b4dcc72462a3",
+      "pickup": "pick_2",
+      "dropoff": "drop_5",
+      "task_completion_duration": 265.244
+    },
+    {
+      "robot_name": "rgv7",
+      "task_id": "delivery_ba522a21-0d12-49de-84d6-1908ffe0587c",
+      "pickup": "pick_4",
+      "dropoff": "drop_1",
+      "task_completion_duration": 276.872
+    },
+    {
+      "robot_name": "rgv6",
+      "task_id": "delivery_19832035-6739-4086-bdea-23f864523ac1",
+      "pickup": "pick_5",
+      "dropoff": "drop_3",
+      "task_completion_duration": 432.32
+    },
+    {
+      "robot_name": "rgv8",
+      "task_id": "delivery_7e2cbb92-36f5-4206-aae9-b201e7bdeb7e",
+      "pickup": "pick_4",
+      "dropoff": "drop_1",
+      "task_completion_duration": 288.194
+    },
+    {
+      "robot_name": "rgv5",
+      "task_id": "delivery_0fd4def5-18e0-41a2-97c9-1c50051e822a",
+      "pickup": "pick_2",
+      "dropoff": "drop_4",
+      "task_completion_duration": 198.128
+    },
+    {
+      "robot_name": "rgv9",
+      "task_id": "delivery_f0af142d-8758-4a3b-9821-728f077b311c",
+      "pickup": "pick_5",
+      "dropoff": "drop_2",
+      "task_completion_duration": 332.564
+    },
+    {
+      "robot_name": "rgv10",
+      "task_id": "delivery_e5ab1e51-798a-47b1-8dfa-bbfc61e687dd",
+      "pickup": "pick_5",
+      "dropoff": "drop_3",
+      "task_completion_duration": 444.254
+    },
+    {
+      "robot_name": "rgv7",
+      "task_id": "delivery_9025c74d-44bc-48b2-9c77-c434575aa0a2",
+      "pickup": "pick_2",
+      "dropoff": "drop_4",
+      "task_completion_duration": 242.294
+    },
+    {
+      "robot_name": "rgv3",
+      "task_id": "delivery_4e195e39-4686-45e2-835a-ac2860d629e7",
+      "pickup": "pick_4",
+      "dropoff": "drop_2",
+      "task_completion_duration": 508.31
+    },
+    {
+      "robot_name": "rgv9",
+      "task_id": "delivery_ca99168f-0b1c-40cf-93cd-53ee1334826e",
+      "pickup": "pick_3",
+      "dropoff": "drop_4",
+      "task_completion_duration": 189.56
+    },
+    {
+      "robot_name": "rgv1",
+      "task_id": "delivery_990e928e-ce5a-4b85-8dfd-164896c52ff3",
+      "pickup": "pick_1",
+      "dropoff": "drop_5",
+      "task_completion_duration": 735.26
+    },
+    {
+      "robot_name": "rgv2",
+      "task_id": "delivery_a8215cc2-21b5-41b6-a485-11939521b1a5",
+      "pickup": "pick_2",
+      "dropoff": "drop_5",
+      "task_completion_duration": 513.206
+    }
+  ]
+}

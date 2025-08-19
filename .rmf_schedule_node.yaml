@@ -1,0 +1,300 @@
+- operation: Add
+  participant_description:
+    name: rgv1
+    group: tinyRobot
+    responsiveness: Responsive
+    profile:
+      footprint:
+        type: Circle
+        index: 0
+      vicinity:
+        type: Circle
+        index: 1
+      shape_context:
+        - 0.20000000000000001
+        - 0.80000000000000004
+- operation: Add
+  participant_description:
+    name: rgv2
+    group: tinyRobot
+    responsiveness: Responsive
+    profile:
+      footprint:
+        type: Circle
+        index: 0
+      vicinity:
+        type: Circle
+        index: 1
+      shape_context:
+        - 0.20000000000000001
+        - 0.80000000000000004
+- operation: Add
+  participant_description:
+    name: rgv3
+    group: tinyRobot
+    responsiveness: Responsive
+    profile:
+      footprint:
+        type: Circle
+        index: 0
+      vicinity:
+        type: Circle
+        index: 1
+      shape_context:
+        - 0.20000000000000001
+        - 0.80000000000000004
+- operation: Add
+  participant_description:
+    name: rgv4
+    group: tinyRobot
+    responsiveness: Responsive
+    profile:
+      footprint:
+        type: Circle
+        index: 0
+      vicinity:
+        type: Circle
+        index: 1
+      shape_context:
+        - 0.20000000000000001
+        - 0.80000000000000004
+- operation: Add
+  participant_description:
+    name: rgv5
+    group: tinyRobot
+    responsiveness: Responsive
+    profile:
+      footprint:
+        type: Circle
+        index: 0
+      vicinity:
+        type: Circle
+        index: 1
+      shape_context:
+        - 0.20000000000000001
+        - 0.80000000000000004
+- operation: Add
+  participant_description:
+    name: rgv6
+    group: tinyRobot
+    responsiveness: Responsive
+    profile:
+      footprint:
+        type: Circle
+        index: 0
+      vicinity:
+        type: Circle
+        index: 1
+      shape_context:
+        - 0.20000000000000001
+        - 0.80000000000000004
+- operation: Add
+  participant_description:
+    name: rgv7
+    group: tinyRobot
+    responsiveness: Responsive
+    profile:
+      footprint:
+        type: Circle
+        index: 0
+      vicinity:
+        type: Circle
+        index: 1
+      shape_context:
+        - 0.20000000000000001
+        - 0.80000000000000004
+- operation: Add
+  participant_description:
+    name: rgv8
+    group: tinyRobot
+    responsiveness: Responsive
+    profile:
+      footprint:
+        type: Circle
+        index: 0
+      vicinity:
+        type: Circle
+        index: 1
+      shape_context:
+        - 0.20000000000000001
+        - 0.80000000000000004
+- operation: Add
+  participant_description:
+    name: rgv9
+    group: tinyRobot
+    responsiveness: Responsive
+    profile:
+      footprint:
+        type: Circle
+        index: 0
+      vicinity:
+        type: Circle
+        index: 1
+      shape_context:
+        - 0.20000000000000001
+        - 0.80000000000000004
+- operation: Add
+  participant_description:
+    name: amrRobot10
+    group: amrRobot
+    responsiveness: Responsive
+    profile:
+      footprint:
+        type: Circle
+        index: 0
+      vicinity:
+        type: Circle
+        index: 1
+      shape_context:
+        - 0.40000000000000002
+        - 0.59999999999999998
+- operation: Add
+  participant_description:
+    name: amrRobot9
+    group: amrRobot
+    responsiveness: Responsive
+    profile:
+      footprint:
+        type: Circle
+        index: 0
+      vicinity:
+        type: Circle
+        index: 1
+      shape_context:
+        - 0.40000000000000002
+        - 0.59999999999999998
+- operation: Add
+  participant_description:
+    name: amrRobot8
+    group: amrRobot
+    responsiveness: Responsive
+    profile:
+      footprint:
+        type: Circle
+        index: 0
+      vicinity:
+        type: Circle
+        index: 1
+      shape_context:
+        - 0.40000000000000002
+        - 0.59999999999999998
+- operation: Add
+  participant_description:
+    name: amrRobot7
+    group: amrRobot
+    responsiveness: Responsive
+    profile:
+      footprint:
+        type: Circle
+        index: 0
+      vicinity:
+        type: Circle
+        index: 1
+      shape_context:
+        - 0.40000000000000002
+        - 0.59999999999999998
+- operation: Add
+  participant_description:
+    name: amrRobot6
+    group: amrRobot
+    responsiveness: Responsive
+    profile:
+      footprint:
+        type: Circle
+        index: 0
+      vicinity:
+        type: Circle
+        index: 1
+      shape_context:
+        - 0.40000000000000002
+        - 0.59999999999999998
+- operation: Add
+  participant_description:
+    name: amrRobot5
+    group: amrRobot
+    responsiveness: Responsive
+    profile:
+      footprint:
+        type: Circle
+        index: 0
+      vicinity:
+        type: Circle
+        index: 1
+      shape_context:
+        - 0.40000000000000002
+        - 0.59999999999999998
+- operation: Add
+  participant_description:
+    name: amrRobot4
+    group: amrRobot
+    responsiveness: Responsive
+    profile:
+      footprint:
+        type: Circle
+        index: 0
+      vicinity:
+        type: Circle
+        index: 1
+      shape_context:
+        - 0.40000000000000002
+        - 0.59999999999999998
+- operation: Add
+  participant_description:
+    name: amrRobot3
+    group: amrRobot
+    responsiveness: Responsive
+    profile:
+      footprint:
+        type: Circle
+        index: 0
+      vicinity:
+        type: Circle
+        index: 1
+      shape_context:
+        - 0.40000000000000002
+        - 0.59999999999999998
+- operation: Add
+  participant_description:
+    name: amrRobot2
+    group: amrRobot
+    responsiveness: Responsive
+    profile:
+      footprint:
+        type: Circle
+        index: 0
+      vicinity:
+        type: Circle
+        index: 1
+      shape_context:
+        - 0.40000000000000002
+        - 0.59999999999999998
+- operation: Add
+  participant_description:
+    name: amrRobot1
+    group: amrRobot
+    responsiveness: Responsive
+    profile:
+      footprint:
+        type: Circle
+        index: 0
+      vicinity:
+        type: Circle
+        index: 1
+      shape_context:
+        - 0.40000000000000002
+        - 0.59999999999999998
+- operation: Add
+  participant_description:
+    name: rgv10
+    group: tinyRobot
+    responsiveness: Responsive
+    profile:
+      footprint:
+        type: Circle
+        index: 0
+      vicinity:
+        type: Circle
+        index: 1
+      shape_context:
+        - 0.20000000000000001
+        - 0.80000000000000004

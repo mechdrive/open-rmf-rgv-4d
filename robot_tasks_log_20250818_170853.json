@@ -1,0 +1,38 @@
+{
+  "summary": {
+    "total_tasks_completed": 4,
+    "total_sim_time_sec": 0.0,
+    "total_sim_time_hms": "0s",
+    "throughput_rate_tasks_per_sec": 0.0
+  },
+  "tasks": [
+    {
+      "robot_name": "rgv7",
+      "task_id": "delivery_a4392914-58b8-4b5d-b578-75f839f175a0",
+      "pickup": "pick_5",
+      "dropoff": "drop_2",
+      "task_completion_duration": 148.3
+    },
+    {
+      "robot_name": "rgv1",
+      "task_id": "delivery_cbc8650d-c477-4d8c-bdce-f018b64f771a",
+      "pickup": "pick_2",
+      "dropoff": "drop_6",
+      "task_completion_duration": 193.2
+    },
+    {
+      "robot_name": "rgv9",
+      "task_id": "delivery_bca3b537-beb7-431e-8409-e5723f117d6f",
+      "pickup": "pick_4",
+      "dropoff": "drop_1",
+      "task_completion_duration": 204.0
+    },
+    {
+      "robot_name": "rgv2",
+      "task_id": "delivery_f88acebd-ee49-434f-9b50-4c462f1415f3",
+      "pickup": "pick_2",
+      "dropoff": "drop_4",
+      "task_completion_duration": 237.8
+    }
+  ]
+}

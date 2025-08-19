@@ -1,0 +1,17 @@
+{
+  "summary": {
+    "total_tasks_completed": 1,
+    "total_sim_time_sec": 0.0,
+    "total_sim_time_hms": "0s",
+    "throughput_rate_tasks_per_sec": 0.0
+  },
+  "tasks": [
+    {
+      "robot_name": "rgv5",
+      "task_id": "delivery_8bce213f-af8e-4974-89a0-e304a2a3c577",
+      "pickup": "pick_6",
+      "dropoff": "drop_1",
+      "task_completion_duration": 89.8
+    }
+  ]
+}
